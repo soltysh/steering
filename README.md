@@ -137,6 +137,6 @@ TODO(onboarding): Replace SC2 and SC3
 
 | Account | Owner |
 | ------- | ----- |
-| sc1@kubernetes.io | Stephen Augustus |
+| sc1@kubernetes.io | Kat Cosgrove |
 | sc2@kubernetes.io | Antonio Ojea |
 | sc3@kubernetes.io | Maciej Szulik |
